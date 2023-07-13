@@ -12,7 +12,7 @@ number of configurations to test').
 ![The refrigerator puzzle](ToolRefrigeratorPuzzleSolver_1_0.png)
 ![The solver](ToolRefrigeratorPuzzleSolverPuzzle.png)
 
-[Refrigerator Puzzle Solver](ToolRefrigeratorPuzzleSolver.htm) was
+Refrigerator Puzzle Solver was
 programmed at the 28th of December of 2008 in C++ using the IDE C++ Builder 6.0. It uses the STL, VCL and Boost libraries
 
 ## Calculate the number of configurations to test
